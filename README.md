@@ -1,0 +1,1 @@
+Redux exercises for part 6 of the fullstack open curriculum
